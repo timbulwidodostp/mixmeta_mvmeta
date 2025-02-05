@@ -1,6 +1,8 @@
 # mixmeta_mvmeta
 Fitting Standard and Extended Meta-Analysis and Multivariate Meta-Analysis and Meta-Regression Models Use mixmeta And mvmeta With (In) R Software
 
+https://www.youtube.com/watch?v=eArerVHr8I8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
